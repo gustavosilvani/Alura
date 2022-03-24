@@ -8,23 +8,27 @@ const listaDeDestinos = new Array(
 );
 
 const idadeComprador = 15;
-const estaCompanhada = true;
+const estaCompanhada = false;
+const temPassagemComprada = true;
 
 
 console.log("Destinos Possíveis:");
 //console.log(salvador, saoPaulo, rioDeJaneiro);
 console.log(listaDeDestinos);
 
-if (idadeComprador >= 18) {
-    console.log("Comprador maior de idade");
-    listaDeDestinos.splice(1, 1); // removendo um item
-} else if (estaCompanhada) {
-    console.log("Comprador maior de idade");
+if ((idadeComprador >= 18) || (estaCompanhada == true)) {
+    console.log("Boa Viagem!!");
     listaDeDestinos.splice(1, 1); // removendo um item
 } else {
     console.log("Não é maior de Idade e não posso Vender");
 }
 
+console.log("Embarque: \n\n");
+if (idadeComprador >= 18 && temPassagemComprada) {
+    console.log("Boa Viagem!!");
+} else {
+    console.log("Você Não pode Embarcar")
+}
 
 console.log(listaDeDestinos);
 
