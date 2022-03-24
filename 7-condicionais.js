@@ -7,8 +7,10 @@ const listaDeDestinos = new Array(
     `Curitiba`
 );
 
-const idadeComprador = 21;
-const nome = "Gustavo";
+const idadeComprador = 15;
+const estaCompanhada = true;
+
+
 console.log("Destinos Possíveis:");
 //console.log(salvador, saoPaulo, rioDeJaneiro);
 console.log(listaDeDestinos);
@@ -16,14 +18,18 @@ console.log(listaDeDestinos);
 if (idadeComprador >= 18) {
     console.log("Comprador maior de idade");
     listaDeDestinos.splice(1, 1); // removendo um item
+} else if (estaCompanhada) {
+    console.log("Comprador maior de idade");
+    listaDeDestinos.splice(1, 1); // removendo um item
 } else {
     console.log("Não é maior de Idade e não posso Vender");
 }
 
+
 console.log(listaDeDestinos);
 
-console.log(idadeComprador > 18);
-console.log(idadeComprador < 18);
-console.log(idadeComprador <= 18);
-console.log(idadeComprador >= 18);
-console.log(idadeComprador == 18);
+// console.log(idadeComprador > 18);
+// console.log(idadeComprador < 18);
+// console.log(idadeComprador <= 18);
+// console.log(idadeComprador >= 18);
+// console.log(idadeComprador == 18);
