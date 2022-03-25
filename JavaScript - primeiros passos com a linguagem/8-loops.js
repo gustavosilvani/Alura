@@ -8,7 +8,7 @@ const listaDeDestinos = new Array(
 );
 
 const idadeComprador = 15;
-const estaCompanhada = false;
+const estaCompanhada = true;
 let temPassagemComprada = false;
 const destino = "São Paulo";
 
@@ -24,14 +24,33 @@ let destinoExiste = false;
 
 while (contador < 4) {
     if (listaDeDestinos[contador] == destino) {
-        console.log("Destino Existe");
         destinoExiste = true;
         break;
     } else {
-        console.log("Destino Não Existe");
         destinoExiste = false;
     }
     contador++;
 }
 
 console.log("Destino Existe:", destinoExiste);
+
+if (podeComprar && destinoExiste) {
+    console.log("Boa Viagem");
+} else {
+    console.log("Desculpe Tivemos um erro")
+}
+
+for (let cont = 0; cont < 4; cont++) {
+    if (listaDeDestinos[cont] == destino) {
+        destinoExiste = true;
+        break;
+    } else {
+        destinoExiste = false;
+    }
+}
+
+if (podeComprar && destinoExiste) {
+    console.log("Boa Viagem");
+} else {
+    console.log("Desculpe Tivemos um erro")
+}
