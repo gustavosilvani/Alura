@@ -1,26 +1,5 @@
-class Cliente {
-    nome;
-    cpf;
-}
-
-class ContaCorrente {
-    agencia;
-    _saldo = 0;
-
-    sacar(valor) {
-        if (this._saldo >= valor) {
-            this._saldo -= valor;
-            return valor;
-        } else {
-            console.log("Saldo insuficente para saque");
-        }
-    }
-
-    depositar(valor) {
-        if (valor <= 0) return;
-        this._saldo += valor;
-    }
-}
+import { Cliente } from "./Cliente.js";
+import { ContaCorrente } from "./ContaCorrente.js";
 
 const cliente1 = new Cliente();
 cliente1.nome = "Gutavo";
@@ -33,10 +12,17 @@ cliente2.cpf = 11542726956;
 const contaCorrenteGustavo = new ContaCorrente();
 contaCorrenteGustavo._saldo = 0;
 contaCorrenteGustavo.agencia = 1001;
-
+contaCorrenteGustavo.cliente = cliente1;
 contaCorrenteGustavo.depositar(500);
 
-const valorSavado = contaCorrenteGustavo.sacar(50);
+const conta2 = new ContaCorrente();
+conta2.cliente = cliente2;
+conta2.agencia = 102;
 
-console.log(valorSavado);
+let valor = 200;
+contaCorrenteGustavo.trasferir(valor, conta2);
+
+
+console.log("Valor:", valor);
 console.log(contaCorrenteGustavo);
+console.log(conta2);
