@@ -1,0 +1,1462 @@
+idcalendario,Data,Dia_da_Semana,Impressao,Descricao,CortedeBobina,CortedeBobinaDescicao,CortedeA4,CortedeA4Descricao
+1,01/01/2020,quarta-feira,,Férias Coletivas,,,,
+2,02/01/2020,quinta-feira,,Férias Coletivas,,,,
+3,03/01/2020,sexta-feira,,Férias Coletivas,,,,
+4,04/01/2020,sábado,,Férias Coletivas,,,,
+5,05/01/2020,domingo,,Férias Coletivas,,,,
+6,06/01/2020,segunda-feira,,Util,,,,
+7,07/01/2020,terça-feira,,Util,,,,
+8,08/01/2020,quarta-feira,,Util,,,,
+9,09/01/2020,quinta-feira,,Util,,,,
+10,10/01/2020,sexta-feira,,Util,,,,
+11,11/01/2020,sábado,,Não Util,,,,
+12,12/01/2020,domingo,,Não Util,,,,
+13,13/01/2020,segunda-feira,,Util,,,,
+14,14/01/2020,terça-feira,,Util,,,,
+15,15/01/2020,quarta-feira,,Util,,,,
+16,16/01/2020,quinta-feira,,Util,,,,
+17,17/01/2020,sexta-feira,,Util,,,,
+18,18/01/2020,sábado,,Não Util,,,,
+19,19/01/2020,domingo,,Não Util,,,,
+20,20/01/2020,segunda-feira,,Util,,,,
+21,21/01/2020,terça-feira,,Util,,,,
+22,22/01/2020,quarta-feira,,Util,,,,
+23,23/01/2020,quinta-feira,,Util,,,,
+24,24/01/2020,sexta-feira,,Util,,,,
+25,25/01/2020,sábado,,Não Util,,,,
+26,26/01/2020,domingo,,Não Util,,,,
+27,27/01/2020,segunda-feira,,Util,,,,
+28,28/01/2020,terça-feira,,Util,,,,
+29,29/01/2020,quarta-feira,,Util,,,,
+30,30/01/2020,quinta-feira,,Util,,,,
+31,31/01/2020,sexta-feira,,Util,,,,
+32,01/02/2020,sábado,,Não Util,,,,
+33,02/02/2020,domingo,,Não Util,,,,
+34,03/02/2020,segunda-feira,,Util,,,,
+35,04/02/2020,terça-feira,,Util,,,,
+36,05/02/2020,quarta-feira,,Util,,,,
+37,06/02/2020,quinta-feira,,Util,,,,
+38,07/02/2020,sexta-feira,,Util,,,,
+39,08/02/2020,sábado,,Não Util,,,,
+40,09/02/2020,domingo,,Não Util,,,,
+41,10/02/2020,segunda-feira,,Util,,,,
+42,11/02/2020,terça-feira,,Util,,,,
+43,12/02/2020,quarta-feira,,Util,,,,
+44,13/02/2020,quinta-feira,,Util,,,,
+45,14/02/2020,sexta-feira,,Util,,,,
+46,15/02/2020,sábado,,Não Util,,,,
+47,16/02/2020,domingo,,Não Util,,,,
+48,17/02/2020,segunda-feira,,Util,,,,
+49,18/02/2020,terça-feira,,Util,,,,
+50,19/02/2020,quarta-feira,,Util,,,,
+51,20/02/2020,quinta-feira,,Util,,,,
+52,21/02/2020,sexta-feira,,Util,,,,
+53,22/02/2020,sábado,,Não Util,,,,
+54,23/02/2020,domingo,,Não Util,,,,
+55,24/02/2020,segunda-feira,,Util,,,,
+56,25/02/2020,terça-feira,,Util,,,,
+57,26/02/2020,quarta-feira,,Util,,,,
+58,27/02/2020,quinta-feira,,Util,,,,
+59,28/02/2020,sexta-feira,,Util,,,,
+60,29/02/2020,sábado,,Não Util,,,,
+61,01/03/2020,domingo,,Não Util,,,,
+62,02/03/2020,segunda-feira,,Util,,,,
+63,03/03/2020,terça-feira,,Util,,,,
+64,04/03/2020,quarta-feira,,Util,,,,
+65,05/03/2020,quinta-feira,,Util,,,,
+66,06/03/2020,sexta-feira,,Util,,,,
+67,07/03/2020,sábado,,Não Util,,,,
+68,08/03/2020,domingo,,Não Util,,,,
+69,09/03/2020,segunda-feira,,Util,,,,
+70,10/03/2020,terça-feira,,Util,,,,
+71,11/03/2020,quarta-feira,,Util,,,,
+72,12/03/2020,quinta-feira,,Util,,,,
+73,13/03/2020,sexta-feira,,Util,,,,
+74,14/03/2020,sábado,,Não Util,,,,
+75,15/03/2020,domingo,,Não Util,,,,
+76,16/03/2020,segunda-feira,,Util,,,,
+77,17/03/2020,terça-feira,,Util,,,,
+78,18/03/2020,quarta-feira,,Util,,,,
+79,19/03/2020,quinta-feira,,Util,,,,
+80,20/03/2020,sexta-feira,,Util,,,,
+81,21/03/2020,sábado,,Não Util,,,,
+82,22/03/2020,domingo,,Não Util,,,,
+83,23/03/2020,segunda-feira,,Util,,,,
+84,24/03/2020,terça-feira,,Util,,,,
+85,25/03/2020,quarta-feira,,Util,,,,
+86,26/03/2020,quinta-feira,,Util,,,,
+87,27/03/2020,sexta-feira,,Util,,,,
+88,28/03/2020,sábado,,Não Util,,,,
+89,29/03/2020,domingo,,Não Util,,,,
+90,30/03/2020,segunda-feira,,Util,,,,
+91,31/03/2020,terça-feira,,Util,,,,
+92,01/04/2020,quarta-feira,,Util,,,,
+93,02/04/2020,quinta-feira,,Util,,,,
+94,03/04/2020,sexta-feira,,Util,,,,
+95,04/04/2020,sábado,,Não Util,,,,
+96,05/04/2020,domingo,,Não Util,,,,
+97,06/04/2020,segunda-feira,,Util,,,,
+98,07/04/2020,terça-feira,,Util,,,,
+99,08/04/2020,quarta-feira,,Util,,,,
+100,09/04/2020,quinta-feira,,Util,,,,
+101,10/04/2020,sexta-feira,,Não Util,,,,
+102,11/04/2020,sábado,,Não Util,,,,
+103,12/04/2020,domingo,,Não Util,,,,
+104,13/04/2020,segunda-feira,,Util,,,,
+105,14/04/2020,terça-feira,,Util,,,,
+106,15/04/2020,quarta-feira,,Util,,,,
+107,16/04/2020,quinta-feira,,Util,,,,
+108,17/04/2020,sexta-feira,,Util,,,,
+109,18/04/2020,sábado,,Não Util,,,,
+110,19/04/2020,domingo,,Não Util,,,,
+111,20/04/2020,segunda-feira,,Util,,,,
+112,21/04/2020,terça-feira,,Não Util,,,,
+113,22/04/2020,quarta-feira,,Util,,,,
+114,23/04/2020,quinta-feira,,Util,,,,
+115,24/04/2020,sexta-feira,,Util,,,,
+116,25/04/2020,sábado,,Não Util,,,,
+117,26/04/2020,domingo,,Não Util,,,,
+118,27/04/2020,segunda-feira,,Util,,,,
+119,28/04/2020,terça-feira,,Util,,,,
+120,29/04/2020,quarta-feira,,Util,,,,
+121,30/04/2020,quinta-feira,,Util,,,,
+122,01/05/2020,sexta-feira,,Feriado,,,,
+123,02/05/2020,sábado,,Não Util,,,,
+124,03/05/2020,domingo,,Não Util,,,,
+125,04/05/2020,segunda-feira,,Util,,,,
+126,05/05/2020,terça-feira,,Util,,,,
+127,06/05/2020,quarta-feira,,Util,,,,
+128,07/05/2020,quinta-feira,,Util,,,,
+129,08/05/2020,sexta-feira,,Util,,,,
+130,09/05/2020,sábado,,Não Util,,,,
+131,10/05/2020,domingo,,Não Util,,,,
+132,11/05/2020,segunda-feira,,Util,,,,
+133,12/05/2020,terça-feira,,Util,,,,
+134,13/05/2020,quarta-feira,,Util,,,,
+135,14/05/2020,quinta-feira,,Util,,,,
+136,15/05/2020,sexta-feira,,Util,,,,
+137,16/05/2020,sábado,,Não Util,,,,
+138,17/05/2020,domingo,,Não Util,,,,
+139,18/05/2020,segunda-feira,,Util,,,,
+140,19/05/2020,terça-feira,,Util,,,,
+141,20/05/2020,quarta-feira,,Util,,,,
+142,21/05/2020,quinta-feira,,Util,,,,
+143,22/05/2020,sexta-feira,,Util,,,,
+144,23/05/2020,sábado,,Não Util,,,,
+145,24/05/2020,domingo,,Não Util,,,,
+146,25/05/2020,segunda-feira,,Util,,,,
+147,26/05/2020,terça-feira,,Util,,,,
+148,27/05/2020,quarta-feira,,Util,,,,
+149,28/05/2020,quinta-feira,,Util,,,,
+150,29/05/2020,sexta-feira,,Util,,,,
+151,30/05/2020,sábado,,Não Util,,,,
+152,31/05/2020,domingo,,Não Util,,,,
+153,01/06/2020,segunda-feira,,Util,,,,
+154,02/06/2020,terça-feira,,Util,,,,
+155,03/06/2020,quarta-feira,,Util,,,,
+156,04/06/2020,quinta-feira,,Util,,,,
+157,05/06/2020,sexta-feira,,Util,,,,
+158,06/06/2020,sábado,,Não Util,,,,
+159,07/06/2020,domingo,,Não Util,,,,
+160,08/06/2020,segunda-feira,,Util,,,,
+161,09/06/2020,terça-feira,,Util,,,,
+162,10/06/2020,quarta-feira,,Util,,,,
+163,11/06/2020,quinta-feira,,Feriado,,,,
+164,12/06/2020,sexta-feira,,Util,,,,
+165,13/06/2020,sábado,,Não Util,,,,
+166,14/06/2020,domingo,,Não Util,,,,
+167,15/06/2020,segunda-feira,,Util,,,,
+168,16/06/2020,terça-feira,,Util,,,,
+169,17/06/2020,quarta-feira,,Util,,,,
+170,18/06/2020,quinta-feira,,Util,,,,
+171,19/06/2020,sexta-feira,,Util,,,,
+172,20/06/2020,sábado,,Não Util,,,,
+173,21/06/2020,domingo,,Não Util,,,,
+174,22/06/2020,segunda-feira,,Util,,,,
+175,23/06/2020,terça-feira,,Util,,,,
+176,24/06/2020,quarta-feira,,Util,,,,
+177,25/06/2020,quinta-feira,,Util,,,,
+178,26/06/2020,sexta-feira,,Util,,,,
+179,27/06/2020,sábado,,Não Util,,,,
+180,28/06/2020,domingo,,Não Util,,,,
+181,29/06/2020,segunda-feira,,Util,,,,
+182,30/06/2020,terça-feira,,Util,,,,
+183,01/07/2020,quarta-feira,,Util,,,,
+184,02/07/2020,quinta-feira,,Util,,,,
+185,03/07/2020,sexta-feira,,Util,,,,
+186,04/07/2020,sábado,,Não Util,,,,
+187,05/07/2020,domingo,,Não Util,,,,
+188,06/07/2020,segunda-feira,,Util,,,,
+189,07/07/2020,terça-feira,,Util,,,,
+190,08/07/2020,quarta-feira,,Util,,,,
+191,09/07/2020,quinta-feira,,Util,,,,
+192,10/07/2020,sexta-feira,,Util,,,,
+193,11/07/2020,sábado,,Não Util,,,,
+194,12/07/2020,domingo,,Não Util,,,,
+195,13/07/2020,segunda-feira,,Util,,,,
+196,14/07/2020,terça-feira,,Util,,,,
+197,15/07/2020,quarta-feira,,Util,,,,
+198,16/07/2020,quinta-feira,,Util,,,,
+199,17/07/2020,sexta-feira,,Util,,,,
+200,18/07/2020,sábado,,Não Util,,,,
+201,19/07/2020,domingo,,Não Util,,,,
+202,20/07/2020,segunda-feira,,Util,,,,
+203,21/07/2020,terça-feira,,Util,,,,
+204,22/07/2020,quarta-feira,,Util,,,,
+205,23/07/2020,quinta-feira,,Util,,,,
+206,24/07/2020,sexta-feira,,Util,,,,
+207,25/07/2020,sábado,,Não Util,,,,
+208,26/07/2020,domingo,,Não Util,,,,
+209,27/07/2020,segunda-feira,,Feriado,,,,
+210,28/07/2020,terça-feira,,Util,,,,
+211,29/07/2020,quarta-feira,,Util,,,,
+212,30/07/2020,quinta-feira,,Util,,,,
+213,31/07/2020,sexta-feira,,Util,,,,
+214,01/08/2020,sábado,,Não Util,,,,
+215,02/08/2020,domingo,,Não Util,,,,
+216,03/08/2020,segunda-feira,,Util,,,,
+217,04/08/2020,terça-feira,,Util,,,,
+218,05/08/2020,quarta-feira,,Util,,,,
+219,06/08/2020,quinta-feira,,Util,,,,
+220,07/08/2020,sexta-feira,,Util,,,,
+221,08/08/2020,sábado,,Não Util,,,,
+222,09/08/2020,domingo,,Não Util,,,,
+223,10/08/2020,segunda-feira,,Util,,,,
+224,11/08/2020,terça-feira,,Util,,,,
+225,12/08/2020,quarta-feira,,Util,,,,
+226,13/08/2020,quinta-feira,,Util,,,,
+227,14/08/2020,sexta-feira,,Util,,,,
+228,15/08/2020,sábado,,Não Util,,,,
+229,16/08/2020,domingo,,Não Util,,,,
+230,17/08/2020,segunda-feira,,Util,,,,
+231,18/08/2020,terça-feira,,Util,,,,
+232,19/08/2020,quarta-feira,,Util,,,,
+233,20/08/2020,quinta-feira,,Util,,,,
+234,21/08/2020,sexta-feira,,Util,,,,
+235,22/08/2020,sábado,,Não Util,,,,
+236,23/08/2020,domingo,,Não Util,,,,
+237,24/08/2020,segunda-feira,,Util,,,,
+238,25/08/2020,terça-feira,,Util,,,,
+239,26/08/2020,quarta-feira,,Util,,,,
+240,27/08/2020,quinta-feira,,Util,,,,
+241,28/08/2020,sexta-feira,,Util,,,,
+242,29/08/2020,sábado,,Não Util,,,,
+243,30/08/2020,domingo,,Não Util,,,,
+244,31/08/2020,segunda-feira,,Util,,,,
+245,01/09/2020,terça-feira,,Util,,,,
+246,02/09/2020,quarta-feira,,Util,,,,
+247,03/09/2020,quinta-feira,,Util,,,,
+248,04/09/2020,sexta-feira,,Util,,,,
+249,05/09/2020,sábado,,Não Util,,,,
+250,06/09/2020,domingo,,Não Util,,,,
+251,07/09/2020,segunda-feira,,Feriado,,,,
+252,08/09/2020,terça-feira,,Util,,,,
+253,09/09/2020,quarta-feira,,Util,,,,
+254,10/09/2020,quinta-feira,,Util,,,,
+255,11/09/2020,sexta-feira,,Util,,,,
+256,12/09/2020,sábado,,Não Util,,,,
+257,13/09/2020,domingo,,Não Util,,,,
+258,14/09/2020,segunda-feira,,Util,,,,
+259,15/09/2020,terça-feira,,Util,,,,
+260,16/09/2020,quarta-feira,,Util,,,,
+261,17/09/2020,quinta-feira,,Util,,,,
+262,18/09/2020,sexta-feira,,Util,,,,
+263,19/09/2020,sábado,,Não Util,,,,
+264,20/09/2020,domingo,,Não Util,,,,
+265,21/09/2020,segunda-feira,,Util,,,,
+266,22/09/2020,terça-feira,,Util,,,,
+267,23/09/2020,quarta-feira,,Util,,,,
+268,24/09/2020,quinta-feira,,Util,,,,
+269,25/09/2020,sexta-feira,,Util,,,,
+270,26/09/2020,sábado,,Não Util,,,,
+271,27/09/2020,domingo,,Não Util,,,,
+272,28/09/2020,segunda-feira,,Util,,,,
+273,29/09/2020,terça-feira,,Util,,,,
+274,30/09/2020,quarta-feira,,Util,,,,
+275,01/10/2020,quinta-feira,,Util,,,,
+276,02/10/2020,sexta-feira,,Util,,,,
+277,03/10/2020,sábado,,Não Util,,,,
+278,04/10/2020,domingo,,Não Util,,,,
+279,05/10/2020,segunda-feira,,Util,,,,
+280,06/10/2020,terça-feira,,Util,,,,
+281,07/10/2020,quarta-feira,,Util,,,,
+282,08/10/2020,quinta-feira,,Util,,,,
+283,09/10/2020,sexta-feira,,Util,,,,
+284,10/10/2020,sábado,,Não Util,,,,
+285,11/10/2020,domingo,,Não Util,,,,
+286,12/10/2020,segunda-feira,,Feriado,,,,
+287,13/10/2020,terça-feira,,Util,,,,
+288,14/10/2020,quarta-feira,,Util,,,,
+289,15/10/2020,quinta-feira,,Util,,,,
+290,16/10/2020,sexta-feira,,Util,,,,
+291,17/10/2020,sábado,,Não Util,,,,
+292,18/10/2020,domingo,,Não Util,,,,
+293,19/10/2020,segunda-feira,,Util,,,,
+294,20/10/2020,terça-feira,,Util,,,,
+295,21/10/2020,quarta-feira,,Util,,,,
+296,22/10/2020,quinta-feira,,Util,,,,
+297,23/10/2020,sexta-feira,,Util,,,,
+298,24/10/2020,sábado,,Não Util,,,,
+299,25/10/2020,domingo,,Não Util,,,,
+300,26/10/2020,segunda-feira,,Util,,,,
+301,27/10/2020,terça-feira,,Util,,,,
+302,28/10/2020,quarta-feira,,Util,,,,
+303,29/10/2020,quinta-feira,,Util,,,,
+304,30/10/2020,sexta-feira,,Util,,,,
+305,31/10/2020,sábado,,Não Util,,,,
+306,01/11/2020,domingo,,Não Util,,,,
+307,02/11/2020,segunda-feira,,Feriado,,,,
+308,03/11/2020,terça-feira,,Util,,,,
+309,04/11/2020,quarta-feira,,Util,,,,
+310,05/11/2020,quinta-feira,,Util,,,,
+311,06/11/2020,sexta-feira,,Util,,,,
+312,07/11/2020,sábado,,Util,,,,
+313,08/11/2020,domingo,,Não Util,,,,
+314,09/11/2020,segunda-feira,,Util,,,,
+315,10/11/2020,terça-feira,,Util,,,,
+316,11/11/2020,quarta-feira,,Util,,,,
+317,12/11/2020,quinta-feira,,Util,,,,
+318,13/11/2020,sexta-feira,,Util,,,,
+319,14/11/2020,sábado,,Util,,,,
+320,15/11/2020,domingo,,Não Util,,,,
+321,16/11/2020,segunda-feira,,Util,,,,
+322,17/11/2020,terça-feira,,Util,,,,
+323,18/11/2020,quarta-feira,,Util,,,,
+324,19/11/2020,quinta-feira,,Util,,,,
+325,20/11/2020,sexta-feira,,Util,,,,
+326,21/11/2020,sábado,,Não Util,,,,
+327,22/11/2020,domingo,,Não Util,,,,
+328,23/11/2020,segunda-feira,,Util,,,,
+329,24/11/2020,terça-feira,,Util,,,,
+330,25/11/2020,quarta-feira,,Util,,,,
+331,26/11/2020,quinta-feira,,Util,,,,
+332,27/11/2020,sexta-feira,,Util,,,,
+333,28/11/2020,sábado,,Util,,,,
+334,29/11/2020,domingo,,Não Util,,,,
+335,30/11/2020,segunda-feira,,Util,,,,
+336,01/12/2020,terça-feira,,Util,,,,
+337,02/12/2020,quarta-feira,,Util,,,,
+338,03/12/2020,quinta-feira,,Util,,,,
+339,04/12/2020,sexta-feira,,Util,,,,
+340,05/12/2020,sábado,,Util,,,,
+341,06/12/2020,domingo,,Não Util,,,,
+342,07/12/2020,segunda-feira,,Util,,,,
+343,08/12/2020,terça-feira,,Util,,,,
+344,09/12/2020,quarta-feira,,Util,,,,
+345,10/12/2020,quinta-feira,,Util,,,,
+346,11/12/2020,sexta-feira,,Util,,,,
+347,12/12/2020,sábado,,Util,,,,
+348,13/12/2020,domingo,,Não Util,,,,
+349,14/12/2020,segunda-feira,,Util,,,,
+350,15/12/2020,terça-feira,,Util,,,,
+351,16/12/2020,quarta-feira,,Util,,,,
+352,17/12/2020,quinta-feira,,Util,,,,
+353,18/12/2020,sexta-feira,,Util,,,,
+354,19/12/2020,sábado,,Util,,,,
+355,20/12/2020,domingo,,Não Util,,,,
+356,21/12/2020,segunda-feira,,Util,,,,
+357,22/12/2020,terça-feira,,Util,,,,
+358,23/12/2020,quarta-feira,,Férias Coletivas,,,,
+359,24/12/2020,quinta-feira,,Férias Coletivas,,,,
+360,25/12/2020,sexta-feira,,Férias Coletivas,,,,
+361,26/12/2020,sábado,,Férias Coletivas,,,,
+362,27/12/2020,domingo,,Férias Coletivas,,,,
+363,28/12/2020,segunda-feira,,Férias Coletivas,,,,
+364,29/12/2020,terça-feira,,Férias Coletivas,,,,
+365,30/12/2020,quarta-feira,,Férias Coletivas,,,,
+366,31/12/2020,quinta-feira,,Férias Coletivas,,,,
+367,01/01/2021,sexta-feira,IMPRESSÃO,Férias Coletivas,CORTE DE BOBINAS,Férias Coletivas,CORTE DE A4,Férias Coletivas
+368,02/01/2021,sábado,IMPRESSÃO,Férias Coletivas,CORTE DE BOBINAS,Férias Coletivas,CORTE DE A4,Férias Coletivas
+369,03/01/2021,domingo,IMPRESSÃO,Férias Coletivas,CORTE DE BOBINAS,Férias Coletivas,CORTE DE A4,Férias Coletivas
+370,04/01/2021,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+371,05/01/2021,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+372,06/01/2021,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+373,07/01/2021,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+374,08/01/2021,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+375,09/01/2021,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Util
+376,10/01/2021,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+377,11/01/2021,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+378,12/01/2021,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+379,13/01/2021,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+380,14/01/2021,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+381,15/01/2021,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+382,16/01/2021,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Util
+383,17/01/2021,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+384,18/01/2021,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+385,19/01/2021,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+386,20/01/2021,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+387,21/01/2021,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+388,22/01/2021,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+389,23/01/2021,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+390,24/01/2021,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+391,25/01/2021,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+392,26/01/2021,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+393,27/01/2021,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+394,28/01/2021,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+395,29/01/2021,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+396,30/01/2021,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+397,31/01/2021,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+398,01/02/2021,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+399,02/02/2021,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+400,03/02/2021,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+401,04/02/2021,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+402,05/02/2021,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+403,06/02/2021,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Util
+404,07/02/2021,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+405,08/02/2021,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+406,09/02/2021,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+407,10/02/2021,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+408,11/02/2021,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+409,12/02/2021,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+410,13/02/2021,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Util
+411,14/02/2021,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+412,15/02/2021,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+413,16/02/2021,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+414,17/02/2021,quarta-feira,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+415,18/02/2021,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+416,19/02/2021,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+417,20/02/2021,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Util
+418,21/02/2021,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+419,22/02/2021,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+420,23/02/2021,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+421,24/02/2021,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+422,25/02/2021,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+423,26/02/2021,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+424,27/02/2021,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Util
+425,28/02/2021,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+426,01/03/2021,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+427,02/03/2021,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+428,03/03/2021,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+429,04/03/2021,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+430,05/03/2021,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+431,06/03/2021,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+432,07/03/2021,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+433,08/03/2021,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+434,09/03/2021,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+435,10/03/2021,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+436,11/03/2021,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+437,12/03/2021,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+438,13/03/2021,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+439,14/03/2021,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+440,15/03/2021,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+441,16/03/2021,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+442,17/03/2021,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+443,18/03/2021,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+444,19/03/2021,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+445,20/03/2021,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+446,21/03/2021,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+447,22/03/2021,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+448,23/03/2021,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+449,24/03/2021,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+450,25/03/2021,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+451,26/03/2021,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+452,27/03/2021,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+453,28/03/2021,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+454,29/03/2021,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+455,30/03/2021,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+456,31/03/2021,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+457,01/04/2021,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+458,02/04/2021,sexta-feira,IMPRESSÃO,Feriado,CORTE DE BOBINAS,Feriado,CORTE DE A4,Feriado
+459,03/04/2021,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+460,04/04/2021,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+461,05/04/2021,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+462,06/04/2021,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+463,07/04/2021,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+464,08/04/2021,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+465,09/04/2021,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+466,10/04/2021,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+467,11/04/2021,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+468,12/04/2021,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+469,13/04/2021,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+470,14/04/2021,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+471,15/04/2021,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+472,16/04/2021,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+473,17/04/2021,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Util
+474,18/04/2021,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+475,19/04/2021,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+476,20/04/2021,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+477,21/04/2021,quarta-feira,IMPRESSÃO,Feriado,CORTE DE BOBINAS,Feriado,CORTE DE A4,Feriado
+478,22/04/2021,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+479,23/04/2021,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+480,24/04/2021,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Util
+481,25/04/2021,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+482,26/04/2021,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+483,27/04/2021,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+484,28/04/2021,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+485,29/04/2021,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+486,30/04/2021,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+487,01/05/2021,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+488,02/05/2021,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+489,03/05/2021,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+490,04/05/2021,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+491,05/05/2021,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+492,06/05/2021,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+493,07/05/2021,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+494,08/05/2021,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Util
+495,09/05/2021,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+496,10/05/2021,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+497,11/05/2021,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+498,12/05/2021,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+499,13/05/2021,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+500,14/05/2021,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+501,15/05/2021,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+502,16/05/2021,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+503,17/05/2021,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+504,18/05/2021,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+505,19/05/2021,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+506,20/05/2021,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+507,21/05/2021,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+508,22/05/2021,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+509,23/05/2021,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+510,24/05/2021,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+511,25/05/2021,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+512,26/05/2021,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+513,27/05/2021,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+514,28/05/2021,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+515,29/05/2021,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+516,30/05/2021,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+517,31/05/2021,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+518,01/06/2021,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+519,02/06/2021,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+520,03/06/2021,quinta-feira,IMPRESSÃO,Feriado,CORTE DE BOBINAS,Feriado,CORTE DE A4,Feriado
+521,04/06/2021,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+522,05/06/2021,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+523,06/06/2021,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+524,07/06/2021,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+525,08/06/2021,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+526,09/06/2021,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+527,10/06/2021,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+528,11/06/2021,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+529,12/06/2021,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+530,13/06/2021,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+531,14/06/2021,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+532,15/06/2021,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+533,16/06/2021,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+534,17/06/2021,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+535,18/06/2021,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+536,19/06/2021,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Util
+537,20/06/2021,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+538,21/06/2021,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+539,22/06/2021,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+540,23/06/2021,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+541,24/06/2021,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+542,25/06/2021,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+543,26/06/2021,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+544,27/06/2021,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+545,28/06/2021,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+546,29/06/2021,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+547,30/06/2021,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+548,01/07/2021,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+549,02/07/2021,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+550,03/07/2021,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+551,04/07/2021,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+552,05/07/2021,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+553,06/07/2021,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+554,07/07/2021,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+555,08/07/2021,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+556,09/07/2021,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+557,10/07/2021,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+558,11/07/2021,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+559,12/07/2021,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+560,13/07/2021,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+561,14/07/2021,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+562,15/07/2021,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+563,16/07/2021,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+564,17/07/2021,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+565,18/07/2021,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+566,19/07/2021,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+567,20/07/2021,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+568,21/07/2021,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+569,22/07/2021,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+570,23/07/2021,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+571,24/07/2021,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+572,25/07/2021,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+573,26/07/2021,segunda-feira,IMPRESSÃO,Feriado,CORTE DE BOBINAS,Feriado,CORTE DE A4,Feriado
+574,27/07/2021,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+575,28/07/2021,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+576,29/07/2021,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+577,30/07/2021,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+578,31/07/2021,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+579,01/08/2021,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+580,02/08/2021,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+581,03/08/2021,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+582,04/08/2021,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+583,05/08/2021,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+584,06/08/2021,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+585,07/08/2021,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+586,08/08/2021,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+587,09/08/2021,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+588,10/08/2021,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+589,11/08/2021,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+590,12/08/2021,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+591,13/08/2021,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+592,14/08/2021,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+593,15/08/2021,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+594,16/08/2021,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+595,17/08/2021,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+596,18/08/2021,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+597,19/08/2021,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+598,20/08/2021,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+599,21/08/2021,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+600,22/08/2021,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+601,23/08/2021,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+602,24/08/2021,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+603,25/08/2021,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+604,26/08/2021,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+605,27/08/2021,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+606,28/08/2021,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+607,29/08/2021,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+608,30/08/2021,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+609,31/08/2021,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+610,01/09/2021,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+611,02/09/2021,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+612,03/09/2021,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+613,04/09/2021,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+614,05/09/2021,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+615,06/09/2021,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+616,07/09/2021,terça-feira,IMPRESSÃO,Feriado,CORTE DE BOBINAS,Feriado,CORTE DE A4,Feriado
+617,08/09/2021,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+618,09/09/2021,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+619,10/09/2021,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+620,11/09/2021,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+621,12/09/2021,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+622,13/09/2021,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+623,14/09/2021,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+624,15/09/2021,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+625,16/09/2021,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+626,17/09/2021,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+627,18/09/2021,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+628,19/09/2021,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+629,20/09/2021,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+630,21/09/2021,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+631,22/09/2021,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+632,23/09/2021,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+633,24/09/2021,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+634,25/09/2021,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+635,26/09/2021,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+636,27/09/2021,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+637,28/09/2021,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+638,29/09/2021,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+639,30/09/2021,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+640,01/10/2021,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+641,02/10/2021,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+642,03/10/2021,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+643,04/10/2021,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+644,05/10/2021,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+645,06/10/2021,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+646,07/10/2021,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+647,08/10/2021,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+648,09/10/2021,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+649,10/10/2021,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+650,11/10/2021,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+651,12/10/2021,terça-feira,IMPRESSÃO,Feriado,CORTE DE BOBINAS,Feriado,CORTE DE A4,Feriado
+652,13/10/2021,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+653,14/10/2021,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+654,15/10/2021,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+655,16/10/2021,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+656,17/10/2021,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+657,18/10/2021,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+658,19/10/2021,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+659,20/10/2021,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+660,21/10/2021,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+661,22/10/2021,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+662,23/10/2021,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+663,24/10/2021,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+664,25/10/2021,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+665,26/10/2021,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+666,27/10/2021,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+667,28/10/2021,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+668,29/10/2021,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+669,30/10/2021,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+670,31/10/2021,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+671,01/11/2021,segunda-feira,IMPRESSÃO,Feriado,CORTE DE BOBINAS,Feriado,CORTE DE A4,Feriado
+672,02/11/2021,terça-feira,IMPRESSÃO,Feriado,CORTE DE BOBINAS,Feriado,CORTE DE A4,Feriado
+673,03/11/2021,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+674,04/11/2021,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+675,05/11/2021,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+676,06/11/2021,sábado,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+677,07/11/2021,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+678,08/11/2021,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+679,09/11/2021,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+680,10/11/2021,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+681,11/11/2021,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+682,12/11/2021,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+683,13/11/2021,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+684,14/11/2021,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+685,15/11/2021,segunda-feira,IMPRESSÃO,Feriado,CORTE DE BOBINAS,Feriado,CORTE DE A4,Feriado
+686,16/11/2021,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+687,17/11/2021,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+688,18/11/2021,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+689,19/11/2021,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+690,20/11/2021,sábado,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+691,21/11/2021,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+692,22/11/2021,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+693,23/11/2021,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+694,24/11/2021,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+695,25/11/2021,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+696,26/11/2021,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+697,27/11/2021,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+698,28/11/2021,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+699,29/11/2021,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+700,30/11/2021,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+701,01/12/2021,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+702,02/12/2021,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+703,03/12/2021,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+704,04/12/2021,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+705,05/12/2021,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+706,06/12/2021,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+707,07/12/2021,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+708,08/12/2021,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+709,09/12/2021,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+710,10/12/2021,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+711,11/12/2021,sábado,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+712,12/12/2021,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+713,13/12/2021,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+714,14/12/2021,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+715,15/12/2021,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+716,16/12/2021,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+717,17/12/2021,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+718,18/12/2021,sábado,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+719,19/12/2021,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+720,20/12/2021,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+721,21/12/2021,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+722,22/12/2021,quarta-feira,IMPRESSÃO,Férias Coletivas,CORTE DE BOBINAS,Férias Coletivas,CORTE DE A4,Férias Coletivas
+723,23/12/2021,quinta-feira,IMPRESSÃO,Férias Coletivas,CORTE DE BOBINAS,Férias Coletivas,CORTE DE A4,Férias Coletivas
+724,24/12/2021,sexta-feira,IMPRESSÃO,Férias Coletivas,CORTE DE BOBINAS,Férias Coletivas,CORTE DE A4,Férias Coletivas
+725,25/12/2021,sábado,IMPRESSÃO,Férias Coletivas,CORTE DE BOBINAS,Férias Coletivas,CORTE DE A4,Férias Coletivas
+726,26/12/2021,domingo,IMPRESSÃO,Férias Coletivas,CORTE DE BOBINAS,Férias Coletivas,CORTE DE A4,Férias Coletivas
+727,27/12/2021,segunda-feira,IMPRESSÃO,Férias Coletivas,CORTE DE BOBINAS,Férias Coletivas,CORTE DE A4,Férias Coletivas
+728,28/12/2021,terça-feira,IMPRESSÃO,Férias Coletivas,CORTE DE BOBINAS,Férias Coletivas,CORTE DE A4,Férias Coletivas
+729,29/12/2021,quarta-feira,IMPRESSÃO,Férias Coletivas,CORTE DE BOBINAS,Férias Coletivas,CORTE DE A4,Férias Coletivas
+730,30/12/2021,quinta-feira,IMPRESSÃO,Férias Coletivas,CORTE DE BOBINAS,Férias Coletivas,CORTE DE A4,Férias Coletivas
+731,31/12/2021,sexta-feira,IMPRESSÃO,Férias Coletivas,CORTE DE BOBINAS,Férias Coletivas,CORTE DE A4,Férias Coletivas
+732,01/01/2022,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+733,02/01/2022,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+734,03/01/2022,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+735,04/01/2022,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+736,05/01/2022,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+737,06/01/2022,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+738,07/01/2022,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+739,08/01/2022,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+740,09/01/2022,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+741,10/01/2022,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+742,11/01/2022,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+743,12/01/2022,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+744,13/01/2022,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+745,14/01/2022,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+746,15/01/2022,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+747,16/01/2022,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+748,17/01/2022,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+749,18/01/2022,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+750,19/01/2022,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+751,20/01/2022,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+752,21/01/2022,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+753,22/01/2022,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+754,23/01/2022,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+755,24/01/2022,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+756,25/01/2022,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+757,26/01/2022,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+758,27/01/2022,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+759,28/01/2022,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+760,29/01/2022,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+761,30/01/2022,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+762,31/01/2022,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+763,01/02/2022,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+764,02/02/2022,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+765,03/02/2022,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+766,04/02/2022,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+767,05/02/2022,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Util
+768,06/02/2022,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+769,07/02/2022,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+770,08/02/2022,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+771,09/02/2022,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+772,10/02/2022,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+773,11/02/2022,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+774,12/02/2022,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+775,13/02/2022,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+776,14/02/2022,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+777,15/02/2022,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+778,16/02/2022,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+779,17/02/2022,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+780,18/02/2022,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+781,19/02/2022,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+782,20/02/2022,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+783,21/02/2022,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+784,22/02/2022,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+785,23/02/2022,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+786,24/02/2022,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+787,25/02/2022,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+788,26/02/2022,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Util
+789,27/02/2022,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+790,28/02/2022,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+791,01/03/2022,terça-feira,IMPRESSÃO,Feriado,CORTE DE BOBINAS,Feriado,CORTE DE A4,Feriado
+792,02/03/2022,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+793,03/03/2022,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+794,04/03/2022,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+795,05/03/2022,sábado,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+796,06/03/2022,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+797,07/03/2022,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+798,08/03/2022,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+799,09/03/2022,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+800,10/03/2022,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+801,11/03/2022,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+802,12/03/2022,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+803,13/03/2022,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+804,14/03/2022,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+805,15/03/2022,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+806,16/03/2022,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+807,17/03/2022,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+808,18/03/2022,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+809,19/03/2022,sábado,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Não Util
+810,20/03/2022,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+811,21/03/2022,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+812,22/03/2022,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+813,23/03/2022,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+814,24/03/2022,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+815,25/03/2022,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+816,26/03/2022,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+817,27/03/2022,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+818,28/03/2022,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+819,29/03/2022,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+820,30/03/2022,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+821,31/03/2022,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+822,01/04/2022,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+823,02/04/2022,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Util
+824,03/04/2022,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+825,04/04/2022,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+826,05/04/2022,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+827,06/04/2022,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+828,07/04/2022,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+829,08/04/2022,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+830,09/04/2022,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Util
+831,10/04/2022,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+832,11/04/2022,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+833,12/04/2022,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+834,13/04/2022,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+835,14/04/2022,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+836,15/04/2022,sexta-feira,IMPRESSÃO,Feriado,CORTE DE BOBINAS,Feriado,CORTE DE A4,Feriado
+837,16/04/2022,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+838,17/04/2022,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+839,18/04/2022,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+840,19/04/2022,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+841,20/04/2022,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+842,21/04/2022,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+843,22/04/2022,sexta-feira,IMPRESSÃO,Feriado,CORTE DE BOBINAS,Feriado,CORTE DE A4,Feriado
+844,23/04/2022,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+845,24/04/2022,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+846,25/04/2022,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+847,26/04/2022,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+848,27/04/2022,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+849,28/04/2022,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+850,29/04/2022,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+851,30/04/2022,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Util
+852,01/05/2022,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+853,02/05/2022,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+854,03/05/2022,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+855,04/05/2022,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+856,05/05/2022,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+857,06/05/2022,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+858,07/05/2022,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Util,CORTE DE A4,Não Util
+859,08/05/2022,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+860,09/05/2022,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+861,10/05/2022,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+862,11/05/2022,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+863,12/05/2022,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+864,13/05/2022,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+865,14/05/2022,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+866,15/05/2022,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+867,16/05/2022,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+868,17/05/2022,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+869,18/05/2022,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+870,19/05/2022,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+871,20/05/2022,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+872,21/05/2022,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+873,22/05/2022,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+874,23/05/2022,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+875,24/05/2022,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+876,25/05/2022,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+877,26/05/2022,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+878,27/05/2022,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+879,28/05/2022,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+880,29/05/2022,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+881,30/05/2022,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+882,31/05/2022,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+883,01/06/2022,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+884,02/06/2022,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+885,03/06/2022,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+886,04/06/2022,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+887,05/06/2022,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+888,06/06/2022,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+889,07/06/2022,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+890,08/06/2022,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+891,09/06/2022,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+892,10/06/2022,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+893,11/06/2022,sábado,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Não Util
+894,12/06/2022,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+895,13/06/2022,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+896,14/06/2022,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+897,15/06/2022,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+898,16/06/2022,quinta-feira,IMPRESSÃO,Feriado,CORTE DE BOBINAS,Feriado,CORTE DE A4,Feriado
+899,17/06/2022,sexta-feira,IMPRESSÃO,Feriado,CORTE DE BOBINAS,Feriado,CORTE DE A4,Feriado
+900,18/06/2022,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+901,19/06/2022,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+902,20/06/2022,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+903,21/06/2022,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+904,22/06/2022,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+905,23/06/2022,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+906,24/06/2022,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+907,25/06/2022,sábado,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+908,26/06/2022,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+909,27/06/2022,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+910,28/06/2022,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+911,29/06/2022,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+912,30/06/2022,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+913,01/07/2022,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+914,02/07/2022,sábado,IMPRESSÃO,Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+915,03/07/2022,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+916,04/07/2022,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+917,05/07/2022,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+918,06/07/2022,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+919,07/07/2022,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+920,08/07/2022,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+921,09/07/2022,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+922,10/07/2022,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+923,11/07/2022,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+924,12/07/2022,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+925,13/07/2022,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+926,14/07/2022,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+927,15/07/2022,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+928,16/07/2022,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+929,17/07/2022,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+930,18/07/2022,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+931,19/07/2022,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+932,20/07/2022,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+933,21/07/2022,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+934,22/07/2022,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+935,23/07/2022,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+936,24/07/2022,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+937,25/07/2022,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+938,26/07/2022,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+939,27/07/2022,quarta-feira,IMPRESSÃO,Feriado,CORTE DE BOBINAS,Feriado,CORTE DE A4,Feriado
+940,28/07/2022,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+941,29/07/2022,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+942,30/07/2022,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+943,31/07/2022,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+944,01/08/2022,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+945,02/08/2022,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+946,03/08/2022,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+947,04/08/2022,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+948,05/08/2022,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+949,06/08/2022,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+950,07/08/2022,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+951,08/08/2022,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+952,09/08/2022,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+953,10/08/2022,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+954,11/08/2022,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+955,12/08/2022,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+956,13/08/2022,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+957,14/08/2022,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+958,15/08/2022,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+959,16/08/2022,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+960,17/08/2022,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+961,18/08/2022,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+962,19/08/2022,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+963,20/08/2022,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+964,21/08/2022,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+965,22/08/2022,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+966,23/08/2022,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+967,24/08/2022,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+968,25/08/2022,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+969,26/08/2022,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+970,27/08/2022,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+971,28/08/2022,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+972,29/08/2022,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+973,30/08/2022,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+974,31/08/2022,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+975,01/09/2022,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+976,02/09/2022,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+977,03/09/2022,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+978,04/09/2022,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+979,05/09/2022,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+980,06/09/2022,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+981,07/09/2022,quarta-feira,IMPRESSÃO,Feriado,CORTE DE BOBINAS,Feriado,CORTE DE A4,Feriado
+982,08/09/2022,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+983,09/09/2022,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+984,10/09/2022,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+985,11/09/2022,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+986,12/09/2022,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+987,13/09/2022,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+988,14/09/2022,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+989,15/09/2022,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+990,16/09/2022,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+991,17/09/2022,sábado,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Não Util
+992,18/09/2022,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+993,19/09/2022,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+994,20/09/2022,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+995,21/09/2022,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+996,22/09/2022,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+997,23/09/2022,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+998,24/09/2022,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+999,25/09/2022,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1000,26/09/2022,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1001,27/09/2022,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1002,28/09/2022,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1003,29/09/2022,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1004,30/09/2022,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1005,01/10/2022,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1006,02/10/2022,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1007,03/10/2022,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1008,04/10/2022,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1009,05/10/2022,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1010,06/10/2022,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1011,07/10/2022,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1012,08/10/2022,sábado,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1013,09/10/2022,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1014,10/10/2022,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1015,11/10/2022,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1016,12/10/2022,quarta-feira,IMPRESSÃO,Feriado,CORTE DE BOBINAS,Feriado,CORTE DE A4,Feriado
+1017,13/10/2022,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1018,14/10/2022,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1019,15/10/2022,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1020,16/10/2022,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1021,17/10/2022,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1022,18/10/2022,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1023,19/10/2022,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1024,20/10/2022,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1025,21/10/2022,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1026,22/10/2022,sábado,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1027,23/10/2022,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1028,24/10/2022,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1029,25/10/2022,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1030,26/10/2022,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1031,27/10/2022,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1032,28/10/2022,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1033,29/10/2022,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1034,30/10/2022,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1035,31/10/2022,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1036,01/11/2022,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1037,02/11/2022,quarta-feira,IMPRESSÃO,Feriado,CORTE DE BOBINAS,Feriado,CORTE DE A4,Feriado
+1038,03/11/2022,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1039,04/11/2022,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1040,05/11/2022,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1041,06/11/2022,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1042,07/11/2022,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1043,08/11/2022,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1044,09/11/2022,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1045,10/11/2022,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1046,11/11/2022,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1047,12/11/2022,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1048,13/11/2022,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1049,14/11/2022,segunda-feira,IMPRESSÃO,Feriado,CORTE DE BOBINAS,Feriado,CORTE DE A4,Feriado
+1050,15/11/2022,terça-feira,IMPRESSÃO,Feriado,CORTE DE BOBINAS,Feriado,CORTE DE A4,Feriado
+1051,16/11/2022,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1052,17/11/2022,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1053,18/11/2022,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1054,19/11/2022,sábado,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1055,20/11/2022,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1056,21/11/2022,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1057,22/11/2022,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1058,23/11/2022,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1059,24/11/2022,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1060,25/11/2022,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1061,26/11/2022,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1062,27/11/2022,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1063,28/11/2022,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1064,29/11/2022,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1065,30/11/2022,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1066,01/12/2022,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1067,02/12/2022,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1068,03/12/2022,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1069,04/12/2022,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1070,05/12/2022,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1071,06/12/2022,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1072,07/12/2022,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1073,08/12/2022,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1074,09/12/2022,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1075,10/12/2022,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1076,11/12/2022,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1077,12/12/2022,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1078,13/12/2022,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1079,14/12/2022,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1080,15/12/2022,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1081,16/12/2022,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1082,17/12/2022,sábado,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1083,18/12/2022,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1084,19/12/2022,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1085,20/12/2022,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1086,21/12/2022,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1087,22/12/2022,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1088,23/12/2022,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1089,24/12/2022,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1090,25/12/2022,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1091,26/12/2022,segunda-feira,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1092,27/12/2022,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1093,28/12/2022,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1094,29/12/2022,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1095,30/12/2022,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1096,31/12/2022,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1097,01/01/2023,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1098,02/01/2023,segunda-feira,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1099,03/01/2023,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1100,04/01/2023,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1101,05/01/2023,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1102,06/01/2023,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1103,07/01/2023,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1104,08/01/2023,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1105,09/01/2023,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1106,10/01/2023,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1107,11/01/2023,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1108,12/01/2023,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1109,13/01/2023,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1110,14/01/2023,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1111,15/01/2023,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1112,16/01/2023,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1113,17/01/2023,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1114,18/01/2023,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1115,19/01/2023,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1116,20/01/2023,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1117,21/01/2023,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1118,22/01/2023,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1119,23/01/2023,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1120,24/01/2023,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1121,25/01/2023,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1122,26/01/2023,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1123,27/01/2023,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1124,28/01/2023,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1125,29/01/2023,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1126,30/01/2023,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1127,31/01/2023,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1128,01/02/2023,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1129,02/02/2023,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1130,03/02/2023,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1131,04/02/2023,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1132,05/02/2023,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1133,06/02/2023,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1134,07/02/2023,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1135,08/02/2023,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1136,09/02/2023,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1137,10/02/2023,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1138,11/02/2023,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1139,12/02/2023,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1140,13/02/2023,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1141,14/02/2023,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1142,15/02/2023,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1143,16/02/2023,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1144,17/02/2023,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1145,18/02/2023,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1146,19/02/2023,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1147,20/02/2023,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1148,21/02/2023,terça-feira,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1149,22/02/2023,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1150,23/02/2023,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1151,24/02/2023,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1152,25/02/2023,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1153,26/02/2023,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1154,27/02/2023,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1155,28/02/2023,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1156,01/03/2023,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1157,02/03/2023,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1158,03/03/2023,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1159,04/03/2023,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1160,05/03/2023,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1161,06/03/2023,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1162,07/03/2023,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1163,08/03/2023,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1164,09/03/2023,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1165,10/03/2023,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1166,11/03/2023,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1167,12/03/2023,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1168,13/03/2023,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1169,14/03/2023,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1170,15/03/2023,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1171,16/03/2023,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1172,17/03/2023,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1173,18/03/2023,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1174,19/03/2023,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1175,20/03/2023,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1176,21/03/2023,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1177,22/03/2023,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1178,23/03/2023,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1179,24/03/2023,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1180,25/03/2023,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1181,26/03/2023,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1182,27/03/2023,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1183,28/03/2023,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1184,29/03/2023,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1185,30/03/2023,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1186,31/03/2023,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1187,01/04/2023,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1188,02/04/2023,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1189,03/04/2023,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1190,04/04/2023,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1191,05/04/2023,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1192,06/04/2023,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1193,07/04/2023,sexta-feira,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1194,08/04/2023,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1195,09/04/2023,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1196,10/04/2023,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1197,11/04/2023,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1198,12/04/2023,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1199,13/04/2023,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1200,14/04/2023,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1201,15/04/2023,sábado,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1202,16/04/2023,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1203,17/04/2023,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1204,18/04/2023,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1205,19/04/2023,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1206,20/04/2023,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1207,21/04/2023,sexta-feira,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1208,22/04/2023,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1209,23/04/2023,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1210,24/04/2023,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1211,25/04/2023,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1212,26/04/2023,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1213,27/04/2023,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1214,28/04/2023,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1215,29/04/2023,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1216,30/04/2023,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1217,01/05/2023,segunda-feira,IMPRESSÃO,Feriado,CORTE DE BOBINAS,Feriado,CORTE DE A4,Feriado
+1218,02/05/2023,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1219,03/05/2023,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1220,04/05/2023,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1221,05/05/2023,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1222,06/05/2023,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1223,07/05/2023,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1224,08/05/2023,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1225,09/05/2023,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1226,10/05/2023,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1227,11/05/2023,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1228,12/05/2023,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1229,13/05/2023,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1230,14/05/2023,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1231,15/05/2023,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1232,16/05/2023,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1233,17/05/2023,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1234,18/05/2023,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1235,19/05/2023,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1236,20/05/2023,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1237,21/05/2023,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1238,22/05/2023,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1239,23/05/2023,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1240,24/05/2023,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1241,25/05/2023,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1242,26/05/2023,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1243,27/05/2023,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1244,28/05/2023,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1245,29/05/2023,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1246,30/05/2023,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1247,31/05/2023,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1248,01/06/2023,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1249,02/06/2023,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1250,03/06/2023,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1251,04/06/2023,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1252,05/06/2023,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1253,06/06/2023,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1254,07/06/2023,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1255,08/06/2023,quinta-feira,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1256,09/06/2023,sexta-feira,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1257,10/06/2023,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1258,11/06/2023,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1259,12/06/2023,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1260,13/06/2023,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1261,14/06/2023,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1262,15/06/2023,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1263,16/06/2023,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1264,17/06/2023,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1265,18/06/2023,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1266,19/06/2023,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1267,20/06/2023,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1268,21/06/2023,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1269,22/06/2023,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1270,23/06/2023,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1271,24/06/2023,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1272,25/06/2023,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1273,26/06/2023,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1274,27/06/2023,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1275,28/06/2023,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1276,29/06/2023,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1277,30/06/2023,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1278,01/07/2023,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1279,02/07/2023,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1280,03/07/2023,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1281,04/07/2023,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1282,05/07/2023,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1283,06/07/2023,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1284,07/07/2023,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1285,08/07/2023,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1286,09/07/2023,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1287,10/07/2023,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1288,11/07/2023,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1289,12/07/2023,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1290,13/07/2023,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1291,14/07/2023,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1292,15/07/2023,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1293,16/07/2023,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1294,17/07/2023,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1295,18/07/2023,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1296,19/07/2023,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1297,20/07/2023,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1298,21/07/2023,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1299,22/07/2023,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1300,23/07/2023,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1301,24/07/2023,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1302,25/07/2023,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1303,26/07/2023,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1304,27/07/2023,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1305,28/07/2023,sexta-feira,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1306,29/07/2023,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1307,30/07/2023,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1308,31/07/2023,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1309,01/08/2023,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1310,02/08/2023,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1311,03/08/2023,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1312,04/08/2023,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1313,05/08/2023,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1314,06/08/2023,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1315,07/08/2023,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1316,08/08/2023,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1317,09/08/2023,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1318,10/08/2023,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1319,11/08/2023,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1320,12/08/2023,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1321,13/08/2023,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1322,14/08/2023,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1323,15/08/2023,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1324,16/08/2023,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1325,17/08/2023,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1326,18/08/2023,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1327,19/08/2023,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1328,20/08/2023,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1329,21/08/2023,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1330,22/08/2023,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1331,23/08/2023,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1332,24/08/2023,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1333,25/08/2023,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1334,26/08/2023,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1335,27/08/2023,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1336,28/08/2023,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1337,29/08/2023,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1338,30/08/2023,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1339,31/08/2023,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1340,01/09/2023,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1341,02/09/2023,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1342,03/09/2023,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1343,04/09/2023,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1344,05/09/2023,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1345,06/09/2023,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1346,07/09/2023,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1347,08/09/2023,sexta-feira,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1348,09/09/2023,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1349,10/09/2023,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1350,11/09/2023,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1351,12/09/2023,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1352,13/09/2023,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1353,14/09/2023,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1354,15/09/2023,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1355,16/09/2023,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1356,17/09/2023,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1357,18/09/2023,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1358,19/09/2023,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1359,20/09/2023,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1360,21/09/2023,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1361,22/09/2023,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1362,23/09/2023,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1363,24/09/2023,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1364,25/09/2023,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1365,26/09/2023,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1366,27/09/2023,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1367,28/09/2023,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1368,29/09/2023,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1369,30/09/2023,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1370,01/10/2023,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1371,02/10/2023,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1372,03/10/2023,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1373,04/10/2023,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1374,05/10/2023,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1375,06/10/2023,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1376,07/10/2023,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1377,08/10/2023,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1378,09/10/2023,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1379,10/10/2023,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1380,11/10/2023,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1381,12/10/2023,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1382,13/10/2023,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1383,14/10/2023,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1384,15/10/2023,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1385,16/10/2023,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1386,17/10/2023,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1387,18/10/2023,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1388,19/10/2023,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1389,20/10/2023,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1390,21/10/2023,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1391,22/10/2023,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1392,23/10/2023,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1393,24/10/2023,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1394,25/10/2023,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1395,26/10/2023,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1396,27/10/2023,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1397,28/10/2023,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1398,29/10/2023,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1399,30/10/2023,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1400,31/10/2023,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1401,01/11/2023,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1402,02/11/2023,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1403,03/11/2023,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1404,04/11/2023,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1405,05/11/2023,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1406,06/11/2023,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1407,07/11/2023,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1408,08/11/2023,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1409,09/11/2023,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1410,10/11/2023,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1411,11/11/2023,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1412,12/11/2023,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1413,13/11/2023,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1414,14/11/2023,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1415,15/11/2023,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1416,16/11/2023,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1417,17/11/2023,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1418,18/11/2023,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1419,19/11/2023,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1420,20/11/2023,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1421,21/11/2023,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1422,22/11/2023,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1423,23/11/2023,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1424,24/11/2023,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1425,25/11/2023,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1426,26/11/2023,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1427,27/11/2023,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1428,28/11/2023,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1429,29/11/2023,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1430,30/11/2023,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1431,01/12/2023,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1432,02/12/2023,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1433,03/12/2023,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1434,04/12/2023,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1435,05/12/2023,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1436,06/12/2023,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1437,07/12/2023,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1438,08/12/2023,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1439,09/12/2023,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1440,10/12/2023,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1441,11/12/2023,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1442,12/12/2023,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1443,13/12/2023,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1444,14/12/2023,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1445,15/12/2023,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1446,16/12/2023,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1447,17/12/2023,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1448,18/12/2023,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1449,19/12/2023,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1450,20/12/2023,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1451,21/12/2023,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1452,22/12/2023,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1453,23/12/2023,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1454,24/12/2023,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1455,25/12/2023,segunda-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1456,26/12/2023,terça-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1457,27/12/2023,quarta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1458,28/12/2023,quinta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1459,29/12/2023,sexta-feira,IMPRESSÃO,Util,CORTE DE BOBINAS,Util,CORTE DE A4,Util
+1460,30/12/2023,sábado,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
+1461,31/12/2023,domingo,IMPRESSÃO,Não Util,CORTE DE BOBINAS,Não Util,CORTE DE A4,Não Util
